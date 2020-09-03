@@ -44,13 +44,15 @@ Make sure you have a column for date/time, city, state, country, shape, and comm
 
 Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 
-UFO-1 Site
+[UFO-1 Site](https://bhuffstetler.github.io/javascript-challenge/UFO-level-1/index.html)
+
 
 Level 2: Multiple Search Categories (Optional)
 
 
 Complete all of Level 1 criteria.
 
+[UFO-2 Site](https://bhuffstetler.github.io/javascript-challenge/UFO-level-2/index.html)
 
 Using multiple input tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
